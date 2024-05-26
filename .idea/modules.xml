@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PUBALI_X990-main.iml" filepath="$PROJECT_DIR$/.idea/modules/PUBALI_X990-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/PUBALI_X990-main.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/PUBALI_X990-main.domain.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poslib/PUBALI_X990-main.poslib.iml" filepath="$PROJECT_DIR$/.idea/modules/poslib/PUBALI_X990-main.poslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/PUBALI_X990-main.presentation.unitTest.iml" />
+    </modules>
+  </component>
+</project>
